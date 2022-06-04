@@ -7,7 +7,7 @@
 
 JSON
  4. Создать внешний репозиторий c названием JSON
- GitHub > Repos -> New -> JSON
+ GitHub > Repositories -> New -> JSON
 
  5. Клонировать репозиторий JSON на локальный компьютер:
  git clone github.com/elvyudina/Json.git
